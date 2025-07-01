@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Song One",
+      "artist": "Artist One",
+      "url": "http://localhost:8000/public/resourses/musics/file_example_MP3_5MG.mp3",
+      "cover": "/path/to/cover1.jpg"
+    },
+    {
+      "title": "Song Two",
+      "artist": "Artist Two",
+      "url": "http://localhost:8000/public/resourses/musics/file_example_MP3_5MG.mp3",
+      "cover": "/path/to/cover2.jpg"
+    }
+  ]
+  
